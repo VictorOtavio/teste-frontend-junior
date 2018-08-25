@@ -1,7 +1,8 @@
-# Teste de Front-end E-thinkers 
-Este teste é apresentado aos candidatos as vagas de desenvolvimento Front-end para avaliar os quesitos técnicos.
+# Teste de Front-end
 
-### O Desafio
+> Este teste é apresentado aos candidatos as vagas de desenvolvimento Front-end para avaliar os quesitos técnicos.
+
+## O Desafio
 
 Seu objetivo é criar um simples app que deve conter duas páginas, uma que exibe um formulário com os campos abaixo, e outra que liste os dados cadastrados.
 
@@ -11,7 +12,7 @@ Seu objetivo é criar um simples app que deve conter duas páginas, uma que exib
 * Telefone
 * Email
 
-### Pré-requisitos: 
+## Pré-requisitos: 
  - Deve ser possível criar, listar e excluir os dados cadastrados pelo formulário;
  - Os inputs de texto e botão devem ter a aparência conforme o guia de estilo abaixo (com validações);
   - A página ser responsiva;
@@ -99,12 +100,12 @@ Lista local:
 ]
 ```
 
-### Plus:
+## Plus:
  - Permitir edição;
  - Uso de pré-processador css;
  - Testes End to End;
 
-### O que esperamos:
+## O que esperamos:
  - Testes, no mínimo testes unitários;
  - Padrão de Projeto e boas práticas de Orientação a Objetos;
  - Criar um passo a passo de como rodar sua aplicação [(Sugestão)](https://github.com/wearehive/project-guidelines/blob/master/README.sample.md);
