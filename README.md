@@ -1,5 +1,3 @@
-![ethinkers](./images/top-ethinkers.jpg)
-
 # Teste de Front-end E-thinkers 
 Este teste é apresentado aos candidatos as vagas de desenvolvimento Front-end para avaliar os quesitos técnicos.
 
@@ -142,11 +140,5 @@ Lista local:
 ### Botão Loading:
 **Criar animação de loading ao clicar no submit*
 ![inputs](./images/botoes.png)
-
-
-
-### Exemplo final
-
-![inputs](./images/form.png)
 
 ** Use sua criatividade para criar a página para listar os dados cadastrados **
